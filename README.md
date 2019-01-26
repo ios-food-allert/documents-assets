@@ -4,7 +4,7 @@
 ### Proyecto final para el **Diplomado de Desarrollo de aplicaciones móviles**, *2a. generación*
 
 ### Presentan
-* Ángel Solsona Nevero
+* Angel Ricardo Solsona Nevero
 * José Gil Ramírez Sánchez
 
 ## Overview
